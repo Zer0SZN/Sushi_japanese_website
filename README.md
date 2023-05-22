@@ -2,7 +2,7 @@
 
 [Deployed sushi frontend website](sushimanbyzp.netlify.app/)
 
-##Japanese Sushi Website
+## Japanese Sushi Website
 
     This is a repository containing the code for a Japanese sushi website built with HTML and CSS using Vite. The website showcases various types of sushi, provides information about their ingredients, and allows users to place orders.
 
