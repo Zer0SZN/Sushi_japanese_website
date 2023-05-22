@@ -1,4 +1,4 @@
-<------- FrontEnd Development ------>
+## <------- FrontEnd Development ------>
 
 [Deployed sushi frontend website](sushimanbyzp.netlify.app/)
 
